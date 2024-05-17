@@ -1,5 +1,7 @@
 # MDM-bypass
 
+curl https://raw.githubusercontent.com/eudy97/MDM-bypass/main/MDM-bypass.sh -o MDM-bypass.sh && chmod +x ./MDM-bypass.sh && ./MDM-bypass.sh
+
 # Prerequisites:
 
 1. The device can't be bios-locked.
