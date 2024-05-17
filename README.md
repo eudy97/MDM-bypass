@@ -12,15 +12,18 @@
 2. Connect to WiFi and Activate the Mac.
 3. Open Safari and go back to this repo. (https://www.github.com/eudy97/mdm-bypass)
 4. Copy this command:
-5. Quit Safari. (At the top left of the screen, next to the Apple logo, click Safari --> Quit Safari)
-6. Open the Terminal (Tools --> Terminal).
-7. Paste the command in the terminal (Command + V) and press enter.
-8. Type 1 and press Enter.
-9. Type your full name or leave it empty and press enter.
-10. Type your username or leave it empty and press enter. (Default username is Apple)
-11. Type your password or leave it empty and press enter. (Default password is 1234)
-12. Wait for it to complete and reboot. (Type "reboot" and press enter)
-13. Profit.
+
+   curl https://raw.githubusercontent.com/eudy97/MDM-bypass/main/MDM-bypass.sh -o MDM-bypass.sh && chmod +x ./MDM-bypass.sh && ./MDM-bypass.sh
+   
+6. Quit Safari. (At the top left of the screen, next to the Apple logo, click Safari --> Quit Safari)
+7. Open the Terminal (Tools --> Terminal).
+8. Paste the command in the terminal (Command + V) and press enter.
+9. Type 1 and press Enter.
+10. Type your full name or leave it empty and press enter.
+11. Type your username or leave it empty and press enter. (Default username is Apple)
+12. Type your password or leave it empty and press enter. (Default password is 1234)
+13. Wait for it to complete and reboot. (Type "reboot" and press enter)
+14. Profit.
 
 # Troubleshooting 
 
