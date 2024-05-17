@@ -144,9 +144,9 @@ select opt in "${options[@]}"; do
 		fi
 
 		if ! sudo profiles show -type enrollment >/dev/null 2>&1; then
-			echo -e "\n\t${GREEN}Success${NC}\n"
+			echo -e "\n\t${GREEN}Not Enrolled${NC}\n"
 		else
-			echo -e "\n\t${RED}Failure${NC}\n"
+			echo -e "\n\t${RED}Enrolled${NC}\n"
 		fi
 		;;
 
