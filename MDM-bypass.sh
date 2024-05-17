@@ -90,7 +90,7 @@ select opt in "${options[@]}"; do
 			read -rp "Full name: " fullName
 			fullName="${fullName:=Apple}"
 
-			echo -e "${CYAN}Username${NC} ${RED}WRITE WITHOUT SPACES${NC} ${GREEN}(Apple)${NC}"
+			echo -e "${CYAN}Username${NC} ${RED}WRITE WITHOUT SPACES${NC} ${GREEN}(default: Apple)${NC}"
 			read -rp "Username: " username
 			username="${username:=Apple}"
 
