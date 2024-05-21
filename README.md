@@ -30,7 +30,7 @@ curl https://raw.githubusercontent.com/eudy97/MDM-bypass/main/MDM-bypass.sh -o M
 # Troubleshooting:
 
 1. Delete the drive.
-2. Erase the Mac.
+2. Activate the Mac.
 3. Reinstall macOS from recovery.
 4. At the "Select Your Country or Region" screen, press and hold the power button until the screen goes black to shut down.
 5. Follow the installation instructions.
